@@ -15,7 +15,7 @@
 <h3 align="center">Java SDET - QA Automation engineer</h3>
 
 **6+** years of experiience in QA.
-Ex Yandex, ex Adnow, current Sbermarket...
+Ex Yandex, ex Adnow, ex Sbermarket, current - Qiwi
 
 Have bachelor degree in Computer Science(2016) 💻,
 recently completed advanced training courses in java development(2023)🎓
