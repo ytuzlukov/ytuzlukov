@@ -1,4 +1,4 @@
-## JAVA 11, SPRING, RESTASSURED, SELENIUM, SELENIDE, JUNIT4/5/TESTNG, MAVEN/GRADLE
+## JAVA, KOTLIN, SPRING, RESTASSURED, SELENIUM, SELENIDE, JUNIT4/5/TESTNG, MAVEN/GRADLE
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="https://github.com/tuzlukov1/sportmaster-tests/blob/master/images/logo/Idea.svg" width="50" height="50"  alt="IDEA" title="IntelliJ IDEA"/></a>
 <a href="https://www.java.com/"><img src="https://github.com/tuzlukov1/sportmaster-tests/blob/master/images/logo/Java.svg" width="50" height="50"  alt="Java" title="Java"/></a>
@@ -12,7 +12,7 @@
 </p>
   
 <h1 align="center">Hi 👋, I'm Yan</h1>
-<h3 align="center">Java SDET - QA Automation engineer</h3>
+<h3 align="center">SDET</h3>
 
 **6+** years of experiience in QA.
 Ex Yandex, ex Adnow, ex Sbermarket, current - Qiwi
