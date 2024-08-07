@@ -17,8 +17,7 @@
 **7+** years of experiience in QA.
 Ex Yandex, ex Adnow, ex Sbermarket, current - Qiwi
 
-Have bachelor degree in Computer Science(2016) 💻,
-recently completed advanced training courses in java development(2023)🎓
+Have bachelor degree in Computer Science(2016) 💻
 
 ## Example projects: 
 Spring graduate work ✅
