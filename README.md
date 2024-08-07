@@ -14,13 +14,13 @@
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">SDET</h3>
 
-**7+** years of experiience in QA.
+**7+** years of experience in QA.
 Ex Yandex, ex Adnow, ex Sbermarket, current - Qiwi
 
 Have bachelor degree in Computer Science(2016) 💻
 
 ## Example projects: 
-Adv service in spring ✅
+Ads service in spring ✅
 - https://github.com/tuzlukov1/backend_project
 
 Telegram bot - Animal Shelter✅
