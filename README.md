@@ -14,7 +14,7 @@
 <h1 align="center">Hi 👋, I'm Yan</h1>
 <h3 align="center">SDET</h3>
 
-**7+** years of experience in QA.
+**7+** years of experience in QA and backend development.
 Ex Yandex, ex Adnow, ex Sbermarket, current - Qiwi
 
 Have bachelor degree in Computer Science(2016) 💻
