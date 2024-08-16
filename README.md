@@ -12,7 +12,7 @@
 </p>
   
 <h1 align="center">Hi 👋, I'm Yan</h1>
-<h3 align="center">SDET, Backend developer, QA lead</h3>
+<h3 align="center">SDET</h3>
 
 **7+** years of experience in QA and backend development.
 Ex Yandex, ex Adnow, ex Sbermarket, current - Qiwi
